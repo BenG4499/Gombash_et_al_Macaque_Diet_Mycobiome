@@ -1,0 +1,422 @@
+	Genus	Category
+1	Acidiella	Saprotroph
+2	Acremonium	Plant Pathogen
+3	Acrodontium	Plant Pathogen
+4	Aequabiliella	Plant Pathogen
+5	Aigialus	Misc Fungus
+6	Albifimbria	Animal Pathogen
+7	Aliquandostipite	Saprotroph
+8	Alternaria	Plant Pathogen
+9	Amorosia	Saprotroph
+10	Amphisphaeria	Saprotroph
+11	Anaptychia	Lichenized
+12	Anzia	Lichenized
+13	Aphanoascus	Saprotroph
+14	Aquaphila	Saprotroph
+15	Arthrobotrys	Saprotroph
+16	Ascochyta	Plant Pathogen
+17	Aspergillus	Animal Pathogen
+18	Asteroma	Plant Pathogen
+19	Aureobasidium	Animal Pathogen
+20	Azcozonus	Misc Fungus
+21	Bacillicladium	Misc Fungus
+22	Blumeria	Plant Pathogen
+23	Boeremia	Plant Pathogen
+24	Botryosphaeria	Plant Pathogen
+25	Bradymyces	Animal Pathogen
+26	Buellia	Lichenized
+27	Caliciopsis	Plant Pathogen
+28	Capnobotryella	Saprotroph
+29	Cenococcum	Plant Associated
+30	Cercosporella	Plant Pathogen
+31	Chaetomium	Saprotroph
+32	Chlamydosauromyces	Saprotroph
+33	Chorioactis	Plant Associated
+34	Cladophialophora	Saprotroph
+35	Cladosporium	Animal Pathogen
+36	Coccidioides	Animal Pathogen
+37	Colletotrichum	Plant Pathogen
+38	Collophora	Plant Pathogen
+39	Combea	Lichenized
+40	Corynespora	Saprotroph
+41	Cryomyces	Misc Fungus
+42	Cryphonectria	Plant Pathogen
+43	Cyphellophora	Animal Pathogen
+44	Dactylella	Saprotroph
+45	Delitschia	Saprotroph
+46	Diaporthe	Animal Pathogen
+47	Diatrypasimilis	Plant Associated
+48	Dictyocatenulata	Lichenized
+49	Didymella	Animal Pathogen
+50	Digitothyrea	Lichenized
+51	Diploschistes	Lichenized
+52	Donadinia	Saprotroph
+53	Dothiora	Plant Pathogen
+54	Elasticomyces	Misc Fungus
+55	Embellisia	Plant Pathogen
+56	Endosporium	Saprotroph
+57	Epichloe	Plant Associated
+58	Erysiphe	Plant Pathogen
+59	Exophiala	Animal Pathogen
+60	Friedmanniomyces	Misc Fungus
+61	Fusicladium	Plant Pathogen
+62	Glarea	Saprotroph
+63	Golovinomyces	Plant Pathogen
+64	Graphis	Lichenized
+65	Hamigera	Saprotroph
+66	Harpidium	Lichenized
+67	Helicascus	Misc Fungus
+68	Heliocephala	Misc Fungus
+69	Helminthosporium	Plant Pathogen
+70	Herpotrichia	Saprotroph
+71	Heterodermia	Lichenized
+72	Humicola	Misc Fungus
+73	Hypogymnia	Lichenized
+74	Hysterographium	Saprotroph
+75	Jattaea	Saprotroph
+76	Kendrickiella	Misc Fungus
+77	Kionochaeta	Misc Fungus
+78	Kompsoscypha	Saprotroph
+79	Lacazia	Animal Pathogen
+80	Lasiobolus	Saprotroph
+81	Lasiodiplodia	Plant Pathogen
+82	Lecidea	Lichenized
+83	Leptosphaeria	Plant Pathogen
+84	Leptoxyphium	Saprotroph
+85	Letrouitia	Lichenized
+86	Lopezaria	Lichenized
+87	Lophiostoma	Saprotroph
+88	Macrophomina	Plant Pathogen
+89	Meliniomyces	Plant Associated
+90	Meristemomyces	Misc Fungus
+91	Metarhizium	Animal Pathogen
+92	Microdochium	Plant Pathogen
+93	Microsporum	Animal Pathogen
+94	Monascus	Saprotroph
+95	Mycoarachis	Saprotroph
+96	Mycosphaerella	Plant Pathogen
+97	Myriangium	Animal Pathogen
+98	Myriospora	Lichenized
+99	Mytilinidion	Saprotroph
+100	Nannizziopsis	Animal Pathogen
+101	Nectria	Plant Pathogen
+102	Neoascochyta	Plant Pathogen
+103	Neocatenulostroma	Plant Pathogen
+104	Neoscytalidium	Plant Pathogen
+105	Neurospora	Saprotroph
+106	Ochroconis	Saprotroph
+107	Onygena	Saprotroph
+108	Ophiosphaerella	Saprotroph
+109	Ophiostoma	Plant Pathogen
+110	Pachyella	Saprotroph
+111	Pannoparmelia	Lichenized
+112	Paracoccidioides	Saprotroph
+113	Parapenidiella	Plant Pathogen
+114	Paraphaeosphaeria	Saprotroph
+115	Paraphyton	Animal Pathogen
+116	Passalora	Plant Pathogen
+117	Peccania	Lichenized
+118	Peltaster	Plant Pathogen
+119	Penicilliopsis	Saprotroph
+120	Penicillium	Animal Pathogen
+121	Phaeosphaeriopsis	Saprotroph
+122	Phialemonium	Saprotroph
+123	Phialocephala	Plant Associated
+124	Phillipsia	Misc Fungus
+125	Phoma	Animal Pathogen
+126	Phyllosticta	Plant Pathogen
+127	Physconia	Lichenized
+128	Placopsis	Lichenized
+129	Pleiochaeta	Plant Pathogen
+130	Podosphaera	Plant Pathogen
+131	Podospora	Plant Pathogen
+132	Porpidia	Lichenized
+133	Psora	Lichenized
+134	Pyrenochaeta	Animal Pathogen
+135	Pyrenophora	Plant Pathogen
+136	Ramichloridium	Plant Pathogen
+137	Ramularia	Plant Pathogen
+138	Readeriella	Plant Pathogen
+139	Rhizocarpon	Lichenized
+140	Rinodinella	Lichenized
+141	Saxomyces	Misc Fungus
+142	Sclerocleista	Saprotroph
+143	Scleroconidioma	Plant Pathogen
+144	Sclerotinia	Plant Pathogen
+145	Scolecobasidium	Animal Pathogen
+146	Scorias	Saprotroph
+147	Scytalidium	Saprotroph
+148	Seimatosporium	Plant Pathogen
+149	Simonyella	Lichenized
+150	Slimacomyces	Misc Fungus
+151	Sordaria	Saprotroph
+152	Spathulospora	Plant Pathogen
+153	Sphaerographium	Saprotroph
+154	Sphaerulina	Lichenized
+155	Stagonosporopsis	Plant Pathogen
+156	Strobiloscypha	Plant Associated
+157	Sydowia	Saprotroph
+158	Synchaetomella	Misc Fungus
+159	Talaromyces	Saprotroph
+160	Teratoramularia	Misc Fungus
+161	Teratosphaeria	Plant Pathogen
+162	Tetracladium	Saprotroph
+163	Thelebolus	Plant Associated
+164	Thermomyces	Misc Fungus
+165	Trapelia	Lichenized
+166	Trichophyton	Saprotroph
+167	Tricladium	Saprotroph
+168	Troposporella	Plant Associated
+169	Truncatella	Plant Pathogen
+170	Tubeufia	Saprotroph
+171	Umbilicaria	Lichenized
+172	Unknown	Misc Fungus
+173	Verruconis	Animal Pathogen
+174	Warcupiella	Saprotroph
+175	Westerdykella	Saprotroph
+176	Xeromyces	Saprotroph
+177	Xylaria	Plant Associated
+178	Alloascoidea	Animal Pathogen
+179	Ambrosiozyma	Saprotroph
+180	Candida	Animal Pathogen
+181	Barnettozyma	Saprotroph
+182	Clavispora	Animal Pathogen
+183	Cyberlindnera	Animal Pathogen
+184	Hyphopichia	Animal Pathogen
+185	Kazachstania	Animal Pathogen
+186	Metschnikowia	Animal Pathogen
+187	Meyerozyma	Misc Fungus
+188	Nakaseomyces	Animal Pathogen
+189	Ogataea	Misc Fungus
+190	Pichia	Animal Pathogen
+191	Saccharomyces	Saprotroph
+192	Schwanniomyces	Animal Pathogen
+193	Starmerella	Animal Pathogen
+194	Wickerhamiella	Animal Pathogen
+195	Wickerhamomyces	Saprotroph
+196	Williopsis	Plant Associated
+197	Yamadazyma	Saprotroph
+198	Zygoascus	Animal Pathogen
+199	Diutina	Animal Pathogen
+200	Priceomyces	Misc Fungus
+201	Citeromyces	Misc Fungus
+202	Debaryomyces	Saprotroph
+203	Dipodascopsis	Misc Fungus
+204	Dipodascus	Animal Pathogen
+205	Eremothecium	Plant Pathogen
+206	Galactomyces	Plant Pathogen
+207	Geotrichum	Animal Pathogen
+208	Hanseniaspora	Animal Pathogen
+209	Kluyveromyces	Plant Associated
+210	Kodamaea	Animal Pathogen
+211	Kuraishia	Misc Fungus
+212	Lipomyces	Misc Fungus
+213	Magnusiomyces	Animal Pathogen
+214	Martiniozyma	Misc Fungus
+215	Millerozyma	Animal Pathogen
+216	Myxozyma	Plant Associated
+217	Nakazawaea	Misc Fungus
+218	Naumovozyma	Misc Fungus
+219	Pachysolen	Misc Fungus
+220	Saccharomycopsis	Misc Fungus
+221	Saturnispora	Misc Fungus
+222	Scheffersomyces	Animal Pathogen
+223	Tetrapisispora	Animal Pathogen
+224	Trichomonascus	Animal Pathogen
+225	Trigonopsis	Animal Pathogen
+226	Yarrowia	Saprotroph
+227	Zygosaccharomyces	Plant Pathogen
+228	Taphrina	Plant Pathogen
+229	Protomyces	Plant Pathogen
+230	Archaeorhizomyces	Plant Associated
+231	Acanthophysellum	Saprotroph
+232	Albatrellus	Plant Associated
+233	Amanita	Plant Associated
+234	Amylocystis	Saprotroph
+235	Anomoporia	Saprotroph
+236	Anthracophyllum	Saprotroph
+237	Antrodiella	Saprotroph
+238	Apiotrichum	Animal Pathogen
+239	Asterophora	Misc Fungus
+240	Athelia	Plant Pathogen
+241	Auricularia	Saprotroph
+242	Auriscalpium	Plant Pathogen
+243	Baeospora	Saprotroph
+244	Bandonia	Misc Fungus
+245	Boletellus	Plant Associated
+246	Boletinellus	Animal Pathogen
+247	Botryobasidium	Misc Fungus
+248	Bullera	Misc Fungus
+249	Bulleribasidium	Misc Fungus
+250	Callistosporium	Saprotroph
+251	Carcinomyces	Misc Fungus
+252	Chamaeota	Saprotroph
+253	Clavariadelphus	Misc Fungus
+254	Coniophora	Saprotroph
+255	Coprinus	Plant Pathogen
+256	Craterocolla	Saprotroph
+257	Cryptococcus	Animal Pathogen
+258	Cutaneotrichosporon	Misc Fungus
+259	Cyphellopsis	Saprotroph
+260	Cyphellostereum	Lichenized
+261	Dacrymyces	Saprotroph
+262	Dendrocorticium	Saprotroph
+263	Dioszegia	Plant Associated
+264	Exidia	Plant Associated
+265	Fellomyces	Misc Fungus
+266	Filobasidium	Saprotroph
+267	Fomitiporia	Plant Pathogen
+268	Fomitopsis	Plant Pathogen
+269	Ganoderma	Plant Pathogen
+270	Goffeauzyma	Misc Fungus
+271	Gomphidius	Plant Associated
+272	Gomphus	Plant Associated
+273	Haploporus	Plant Pathogen
+274	Haplotrichum	Plant Associated
+275	Heliocybe	Saprotroph
+276	Heterocephalacria	Misc Fungus
+277	Hydnellum	Plant Associated
+278	Hydnochaete	Plant Pathogen
+279	Hydnum	Plant Associated
+280	Hygrocybe	Saprotroph
+281	Hygrophoropsis	Saprotroph
+282	Hygrophorus	Plant Associated
+283	Hyphodontia	Saprotroph
+284	Jaapia	Saprotroph
+285	Kockovaella	Plant Associated
+286	Kwoniella	Misc Fungus
+287	Lachnocladium	Saprotroph
+288	Laetiporus	Saprotroph
+289	Leucopaxillus	Saprotroph
+290	Limnoperdon	Misc Fungus
+291	Limonomyces	Plant Pathogen
+292	Lycoperdon	Misc Fungus
+293	Macrolepiota	Saprotroph
+294	Marasmius	Plant Pathogen
+295	Marchandiomyces	Misc Fungus
+296	Moniliophthora	Plant Pathogen
+297	Mycoacia	Saprotroph
+298	Neohygrocybe	Saprotroph
+299	Neolentiporus	Saprotroph
+300	Nia	Saprotroph
+301	Nielozyma	Misc Fungus
+302	Oxyporus	Saprotroph
+303	Papiliotrema	Plant Associated
+304	Phallus	Saprotroph
+305	Phanerochaete	Saprotroph
+306	Phellinus	Plant Pathogen
+307	Phlebia	Saprotroph
+308	Phyllotopsis	Saprotroph
+309	Piskurozyma	Misc Fungus
+310	Pleuroflammula	Saprotroph
+311	Pluteus	Plant Pathogen
+312	Psathyrella	Saprotroph
+313	Pseudomerulius	Saprotroph
+314	Pseudotremella	Misc Fungus
+315	Pterula	Misc Fungus
+316	Resinicium	Saprotroph
+317	Rhizoctonia	Animal Pathogen
+318	Rhizopogon	Plant Associated
+319	Rhynchogastrema	Saprotroph
+320	Rogersella	Saprotroph
+321	Saitozyma	Misc Fungus
+322	Sanghuangporus	Plant Pathogen
+323	Schizophyllum	Saprotroph
+324	Scytinostroma	Saprotroph
+325	Sirobasidium	Misc Fungus
+326	Sistotrema	Plant Associated
+327	Steccherinum	Saprotroph
+328	Stereum	Saprotroph
+329	Syzygospora	Misc Fungus
+330	Tausonia	Misc Fungus
+331	Termitomyces	Saprotroph
+332	Tomentella	Plant Associated
+333	Trechispora	Saprotroph
+334	Tremella	Misc Fungus
+335	Trichosporon	Animal Pathogen
+336	Trimorphomyces	Saprotroph
+337	Tropicoporus	Animal Pathogen
+338	Tulasnella	Plant Associated
+339	Tyromyces	Saprotroph
+340	Vanrija	Misc Fungus
+341	Vishniacozyma	Plant Associated
+342	Wallemia	Saprotroph
+343	Acaromyces	Animal Pathogen
+344	Ceraceosorus	Plant Pathogen
+345	Exobasidium	Plant Pathogen
+346	Golubevia	Misc Fungus
+347	Jaminaea	Misc Fungus
+348	Malassezia	Animal Pathogen
+349	Moesziomyces	Plant Pathogen
+350	Moniliella	Animal Pathogen
+351	Parajaminaea	Misc Fungus
+352	Quambalaria	Plant Pathogen
+353	Schizonella	Plant Pathogen
+354	Sympodiomycopsis	Plant Pathogen
+355	Tilletiaria	Plant Pathogen
+356	Tilletiopsis	Misc Fungus
+357	Ustilago	Plant Pathogen
+358	Bannoa	Saprotroph
+359	Blastospora	Plant Pathogen
+360	Buckleyzyma	Saprotroph
+361	Chrysozyma	Saprotroph
+362	Colacogloea	Misc Fungus
+363	Cronartium	Plant Pathogen
+364	Curvibasidium	Misc Fungus
+365	Cyphobasidium	Lichenized
+366	Cystobasidiopsis	Saprotroph
+367	Cystobasidium	Misc Fungus
+368	Eocronartium	Plant Pathogen
+369	Erythrobasidium	Misc Fungus
+370	Fellozyma	Misc Fungus
+371	Kondoa	Plant Associated
+372	Leucosporidium	Saprotroph
+373	Melampsoridium	Plant Pathogen
+374	Microsporomyces	Misc Fungus
+375	Occultifur	Saprotroph
+376	Paratritirachium	Saprotroph
+377	Phyllozyma	Misc Fungus
+378	Platygloea	Misc Fungus
+379	Pseudobensingtonia	Misc Fungus
+380	Pseudohyphozyma	Misc Fungus
+381	Puccinia	Plant Pathogen
+382	Rhodosporidiobolus	Plant Pathogen
+383	Rhodotorula	Animal Pathogen
+384	Slooffia	Misc Fungus
+385	Sphenorchidium	Plant Associated
+386	Sporidiobolus	Animal Pathogen
+387	Sporobolomyces	Saprotroph
+388	Sterigmatomyces	Animal Pathogen
+389	Symmetrospora	Animal Pathogen
+390	Tritirachium	Saprotroph
+391	Uredinopsis	Plant Pathogen
+392	Vonarxula	Misc Fungus
+393	Physoderma	Plant Pathogen
+394	Gonapodya	Misc Fungus
+395	Rhizophlyctis	Saprotroph
+396	Rhizophydium	Misc Fungus
+397	Vairimorpha	Animal Pathogen
+398	Ambispora	Plant Associated
+399	Dentiscutata	Plant Associated
+400	Rhizophagus	Plant Associated
+401	Mortierella	Plant Associated
+402	Basidiobolus	Animal Pathogen
+403	Conidiobolus	Animal Pathogen
+404	Entomophthora	Animal Pathogen
+405	Eryniopsis	Animal Pathogen
+406	Furia	Animal Pathogen
+407	Zoophthora	Animal Pathogen
+408	Ramicandelaber	Saprotroph
+409	Spiromyces	Saprotroph
+410	Ambomucor	Misc Fungus
+411	Amylomyces	Misc Fungus
+412	Backusella	Misc Fungus
+413	Blakeslea	Saprotroph
+414	Choanephora	Saprotroph
+415	Gongronella	Saprotroph
+416	Kirkomyces	Saprotroph
+417	Mucor	Animal Pathogen
+418	Poitrasia	Saprotroph
+419	Rhizopus	Plant Pathogen
+420	Syncephalastrum	Saprotroph
+421	Thamnostylum	Saprotroph
